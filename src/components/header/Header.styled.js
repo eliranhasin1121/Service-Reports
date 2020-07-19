@@ -10,3 +10,14 @@ font-size:20px;
 text-align:center;
 font-weight:bolder;
 `
+
+export const DateContainer = styled.div`
+display:flex;
+justify-content:flex-start;
+padding-top:20px;
+padding-right:15px;
+`
+export const HeaderContainer = styled.div`
+border-style:solid;
+margin-bottom:40px;
+`
